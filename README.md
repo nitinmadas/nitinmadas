@@ -7,7 +7,10 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrbriit)
 [<img src="https://raw.githubusercontent.com/nitinmadas/nitinmadas/main/kaggle_badge.png" width=100px height=28px />](https://kaggle.com/nitinmadas)
 [![instagram](https://img.shields.io/badge/instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nitinmadas24)
-[![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2a9d47?style=for-the-badge)](https://auth.geeksforgeeks.org/user/nitinmadas/)
+[<img src="https://raw.githubusercontent.com/nitinmadas/nitinmadas/main/gfg_badge.png" width=155px height=28px />](https://kaggle.com/nitinmadas)
+
+<!--[![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2a9d47?style=for-the-badge)](https://auth.geeksforgeeks.org/user/nitinmadas/) -->
+
 
 ---
 
@@ -36,6 +39,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinmadas&label=Profile%20views&color=0e75b6&style=flat" alt="nitinmadas" /> </p>
 <p align="left"> <a href="https://twitter.com/nitinmadas24" target="blank"><img src="https://img.shields.io/twitter/follow/nitinmadas24?logo=twitter&style=for-the-badge" alt="nitinmadas24" /></a> </p>
 -->
+### 📊 Stats
 
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinmadas&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="nitinmadas" height="195px" /> -->
+
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinmadas&show_icons=true&theme=gruvbox)
+<img  src="https://streak-stats.demolab.com/?user=nitinmadas&theme=gruvbox&border_radius=4.5" alt="nitinmadas" />
+
+
+#
 
 
