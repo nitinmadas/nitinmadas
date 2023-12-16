@@ -5,7 +5,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrbriit/)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/crazycoder)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrbriit)
-[<img src="https://github.com/nitinmadas/nitinmadas/blob/main/kaggle_badge.png" width=100px height=28px />](https://kaggle.com/nitinmadas)
+[<img src="https://raw.githubusercontent.com/nitinmadas/nitinmadas/main/kaggle_badge.png" width=100px height=28px />](https://kaggle.com/nitinmadas)
 [![instagram](https://img.shields.io/badge/instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nitinmadas24)
 [![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2a9d47?style=for-the-badge)](https://auth.geeksforgeeks.org/user/nitinmadas/)
 
