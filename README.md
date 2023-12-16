@@ -43,8 +43,8 @@
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinmadas&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="nitinmadas" height="195px" /> -->
 
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinmadas&show_icons=true&theme=gruvbox)
-<img  src="https://streak-stats.demolab.com/?user=nitinmadas&theme=gruvbox&border_radius=4.5" alt="nitinmadas" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nitinmadas&show_icons=true&theme=gruvbox" height="200px" width="400px" alt="nitinmadas" />
+<img align="left" src="https://streak-stats.demolab.com/?user=nitinmadas&theme=gruvbox&border_radius=4.5" height="200px" width="400px" alt="nitinmadas" />
 
 
 #
