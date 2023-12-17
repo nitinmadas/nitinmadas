@@ -11,38 +11,53 @@
 
 <!--[![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2a9d47?style=for-the-badge)](https://auth.geeksforgeeks.org/user/nitinmadas/) -->
 
-
 ---
 
 ### 🧰 Languages and Tools
+<p align="left">
+                <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40"/>
+                </a>
+                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="Rlang" title="R Language" width="40" height="40"/>
+                </a>
+                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" title="Postgresql" width="40" height="40"/>
+                </a>
+                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSql" title="MYSql" width="40" height="40"/>
+                </a>
+                <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="MS Excel" title="MS Excel" width="40" height="40"/>
+                </a>
+                <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" width="40" height="40"/>
+                </a>
+                <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Pandas" title="Pandas" width="40" height="40"/>
+                </a>
+                <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="40" height="40"/>
+                </a>
+                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" title="Django" width="40" height="40"/>
+                </a>
+                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
+                </a>
+                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="40" height="40"/>
+                </a>
+                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" title="Scikit Learn" width="40" height="40"/>
+                </a>
+</p>
 
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" height="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"/>
-<img align="left" alt="Rlang" title="R Language" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" />
-<img align="left" alt="Postgresql" title="Postgresql" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="MYSql" title="Mysql" width="40px" style="padding-right:10px;" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="MS Excel" title="MS Excel" width="40px" style="padding-right:10px;" height="40px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" />
-<img align="left" alt="Power BI" title="Power BI" width="40px" height="40px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/power-bi.png" />
-<img align="left" alt="Pandas" height="40px" title="Pandas" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Seaborn" height="40px" title="Seaborn" width="40px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
 
-<img align="left" alt="Django" title="Django" width="40px" style="padding-right:10px;" height="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg" /> 
-
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" height="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Flask" title="Flask" width="40px" style="padding-right:10px;" height="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
+### 
+<h3 align="left">📊 Stats <img align="center" src="https://komarev.com/ghpvc/?username=nitinmadas&label=Profile%20views&color=0e75b6&style=flat" alt="nitinmadas" /> </h3>
 
 
-<img align="left" alt="Scikit Learn" title="Scikit Learn" width="40px" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-### 📊 Stats
-<p align="left" style="display: inline;"> <img src="https://komarev.com/ghpvc/?username=nitinmadas&label=Profile%20views&color=0e75b6&style=flat" alt="nitinmadas" /> </p>
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinmadas&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="nitinmadas" height="195px" /> -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nitinmadas&show_icons=true&theme=gruvbox" height="200px" width="400px" alt="nitinmadas" />
