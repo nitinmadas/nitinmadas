@@ -16,32 +16,33 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"/>
-<img align="left" alt="Rland" title="R Language" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" />
-<img align="left" alt="Postgresql" title="Postgresql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="MYSql" title="Mysql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="MS Excel" title="MS Excel" width="40px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" />
-<img align="left" alt="Power BI" title="Power BI" width="40px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+<img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" height="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"/>
+<img align="left" alt="Rlang" title="R Language" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" />
+<img align="left" alt="Postgresql" title="Postgresql" width="40px" height="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="MYSql" title="Mysql" width="40px" style="padding-right:10px;" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MS Excel" title="MS Excel" width="40px" style="padding-right:10px;" height="40px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" />
+<img align="left" alt="Power BI" title="Power BI" width="40px" height="40px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/power-bi.png" />
+<img align="left" alt="Pandas" height="40px" title="Pandas" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Seaborn" height="40px" title="Seaborn" width="40px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
 
-<img align="left" alt="Pandas" title="Pandas" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Seaborn" title="Seaborn" width="40px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img align="left" alt="Scikit Learn" title="Scikit Learn" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="Django" title="Django" width="40px" style="padding-right:10px;" height="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg" /> 
 
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Flask" title="Flask" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
-
-<img align="left" alt="Django" title="Django" width="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/django.svg" /> 
-<br/>
+<img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" height="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="Flask" title="Flask" width="40px" style="padding-right:10px;" height="40px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
 
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinmadas&label=Profile%20views&color=0e75b6&style=flat" alt="nitinmadas" /> </p>
-<p align="left"> <a href="https://twitter.com/nitinmadas24" target="blank"><img src="https://img.shields.io/twitter/follow/nitinmadas24?logo=twitter&style=for-the-badge" alt="nitinmadas24" /></a> </p>
--->
-<br/>
+<img align="left" alt="Scikit Learn" title="Scikit Learn" width="40px" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### 📊 Stats
-
+<p align="left" style="display: inline;"> <img src="https://komarev.com/ghpvc/?username=nitinmadas&label=Profile%20views&color=0e75b6&style=flat" alt="nitinmadas" /> </p>
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinmadas&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="nitinmadas" height="195px" /> -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nitinmadas&show_icons=true&theme=gruvbox" height="200px" width="400px" alt="nitinmadas" />
