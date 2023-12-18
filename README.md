@@ -7,7 +7,9 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nitinmadas24)
 <a href="https://kaggle.com/nitinmadas" target="_blank">[<img src="https://raw.githubusercontent.com/nitinmadas/nitinmadas/main/kaggle_badge.png"  width=100px height=28px alt="kaggle" />](https://kaggle.com/nitinmadas)<a>
 [![instagram](https://img.shields.io/badge/instagram-ec0075?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nitinmadas24)
+<!--
 [<img src="https://raw.githubusercontent.com/nitinmadas/nitinmadas/main/gfg_badge.png" width=155px height=28px alt="geeksforgeeks"/>](https://auth.geeksforgeeks.org/user/nitinmadas/)
+-->
 
 <!--[![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-2a9d47?style=for-the-badge)](https://auth.geeksforgeeks.org/user/nitinmadas/) -->
 
