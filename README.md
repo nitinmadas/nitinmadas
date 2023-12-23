@@ -1,5 +1,6 @@
-# Nitin Madas
-## **` Data Science and AI Enthusiast`**
+[![Banner](https://media.licdn.com/dms/image/D4D16AQH9PgurvxGy6A/profile-displaybackgroundimage-shrink_350_1400/0/1703090792985?e=1708560000&v=beta&t=cA5jjHBi9uDmHxy8uKQPztR18FSuI4dhJ2WDy2j8A68)
+
+## Nitin Madas **` Data Science and AI Enthusiast`**
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinmadas/)
