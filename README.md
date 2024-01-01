@@ -2,6 +2,11 @@
 
 ## Nitin Madas **` Data Science and AI Enthusiast`**
 
+- 👨‍🏭 I’m currently pursuing **[Msc Statistics and Data Science](https://mathematics.nmims.edu/academics/programs/msc/statistics/) From NMIMS University** <br>
+
+
+<br>
+
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinmadas/)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/crazycoders)
