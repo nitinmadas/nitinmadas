@@ -3,7 +3,8 @@
 ## Nitin Madas **` Data Science and AI Enthusiast`**
 
 - 👨‍🏭 I’m currently pursuing **[Msc Statistics and Data Science](https://mathematics.nmims.edu/academics/programs/msc/statistics/) From NMIMS University** <br>
-- 🔭 I’m currently working on **IBM Data Science Specialization**
+- 🔭 I’m currently working on Portfolio Website
+- ⏳  Recently completed **IBM Data Science Specialization**
 - 🌱 I’m currently learning **Power BI**
 - 💬 Ask me about **Python , SQL**
 - 🥅 2024 Goals: **Learn ML, Deep Learning, Get internship, Build projects** <br>
