@@ -1,6 +1,7 @@
 ![Banner](https://media.licdn.com/dms/image/D4D16AQH9PgurvxGy6A/profile-displaybackgroundimage-shrink_350_1400/0/1703090792985?e=1708560000&v=beta&t=cA5jjHBi9uDmHxy8uKQPztR18FSuI4dhJ2WDy2j8A68)
 
 ## Nitin Madas **` Data Science and AI Enthusiast`**
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 - 👨‍🏭 I’m currently pursuing **[Msc Statistics and Data Science](https://mathematics.nmims.edu/academics/programs/msc/statistics/) From NMIMS University** <br>
 - 🔭 I’m currently working on Portfolio Website
