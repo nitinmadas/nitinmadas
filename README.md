@@ -4,7 +4,7 @@
 <!-- <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="transform: rotate(180deg);"> -->
 
 - 👨‍🏭 I’m currently pursuing **[Msc Statistics and Data Science](https://mathematics.nmims.edu/academics/programs/msc/statistics/) From NMIMS University** <br>
-- 🔭 I’m currently working on Portfolio Website
+- 🔭 I’m currently working on [Portfolio Website](https://nitinmadas.github.io/)
 - ⏳  Recently completed **IBM Data Science Specialization**
 - 🌱 I’m currently learning **Power BI**
 - 💬 Ask me about **Python , SQL**
