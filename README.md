@@ -43,13 +43,13 @@
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,sklearn,git,flask,django" />
   </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> 
  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="MS Excel" title="MS Excel" width="40" height="40"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" width="40" height="40"/>
 </a>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+ <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn" width="40" height="40"/>
  </a>
  
