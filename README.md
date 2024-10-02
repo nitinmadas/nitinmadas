@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D4D16AQH9PgurvxGy6A/profile-displaybackgroundimage-shrink_350_1400/0/1703090792985?e=1708560000&v=beta&t=cA5jjHBi9uDmHxy8uKQPztR18FSuI4dhJ2WDy2j8A68)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGwMDghkuwDSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727474979096?e=1733356800&v=beta&t=buFNjU-DC1IJ1XmfLrQP-Ps53ePMQSKlWoWd8qEY1LI)
 
 ## Nitin Madas **` Data Science and AI Enthusiast`**
 <!-- <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="transform: rotate(180deg);"> -->
